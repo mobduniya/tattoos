@@ -1,0 +1,32 @@
+[
+    {
+        "id": "subject-based",
+        "name": "Tattoo Subjects",
+        "coverImageUrl": "",
+        "orderIndex": 1
+    },
+        {
+        "id": "meaning-based",
+        "name": "Meanings & Emotions",
+        "coverImageUrl": "",
+        "orderIndex": 2
+    },
+        {
+        "id": "size-complexity",
+        "name": "Size & Complexity",
+        "coverImageUrl": "",
+        "orderIndex": 3
+    },
+       {
+        "id": "placement-based",
+        "name": "Body Placement",
+        "coverImageUrl": "",
+        "orderIndex": 4
+    },
+        {
+        "id": "text-scripts",
+        "name": "Quotes & Typography",
+        "coverImageUrl": "",
+        "orderIndex": 5
+    }
+]
