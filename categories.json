@@ -6,74 +6,74 @@
         "orderIndex": 1
     },
     {
-        "id": "style-based",
-        "name": "Tattoo Styles",
-        "coverImageUrl": "",
-        "orderIndex": 2
-    },
-    {
         "id": "placement-based",
         "name": "Body Placement",
         "coverImageUrl": "",
-        "orderIndex": 3
-    },
-    {
-        "id": "color-based",
-        "name": "Ink Colors",
-        "coverImageUrl": "",
-        "orderIndex": 4
+        "orderIndex": 2
     },
     {
         "id": "meaning-based",
         "name": "Meanings & Emotions",
         "coverImageUrl": "",
-        "orderIndex": 5
+        "orderIndex": 3
     },
     {
-        "id": "gender-based",
-        "name": "Browse by Gender",
+        "id": "size-complexity",
+        "name": "Size & Complexity",
         "coverImageUrl": "",
-        "orderIndex": 6
-    },
-    {
-        "id": "zodiac-based",
-        "name": "Zodiac & Astrology",
-        "coverImageUrl": "",
-        "orderIndex": 7
-    },
-    {
-        "id": "mythology-based",
-        "name": "Mythology & Folklore",
-        "coverImageUrl": "",
-        "orderIndex": 8
-    },
-    {
-        "id": "pop-culture",
-        "name": "Pop Culture & Fandom",
-        "coverImageUrl": "",
-        "orderIndex": 9
-    },
-    {
-        "id": "nature-elements",
-        "name": "Nature & Elements",
-        "coverImageUrl": "",
-        "orderIndex": 10
+        "orderIndex": 4
     },
     {
         "id": "text-scripts",
         "name": "Quotes & Typography",
         "coverImageUrl": "",
+        "orderIndex": 5
+    },
+    {
+        "id": "style-based",
+        "name": "Tattoo Styles",
+        "coverImageUrl": "",
+        "orderIndex": 6
+    },
+    {
+        "id": "color-based",
+        "name": "Ink Colors",
+        "coverImageUrl": "",
+        "orderIndex": 7
+    },
+    {
+        "id": "gender-based",
+        "name": "Browse by Gender",
+        "coverImageUrl": "",
+        "orderIndex": 8
+    },
+    {
+        "id": "zodiac-based",
+        "name": "Zodiac & Astrology",
+        "coverImageUrl": "",
+        "orderIndex": 9
+    },
+    {
+        "id": "mythology-based",
+        "name": "Mythology & Folklore",
+        "coverImageUrl": "",
+        "orderIndex": 10
+    },
+    {
+        "id": "pop-culture",
+        "name": "Pop Culture & Fandom",
+        "coverImageUrl": "",
         "orderIndex": 11
     },
     {
-        "id": "numbers-symbols",
-        "name": "Numbers & Symbols",
+        "id": "nature-elements",
+        "name": "Nature & Elements",
         "coverImageUrl": "",
         "orderIndex": 12
     },
     {
-        "id": "size-complexity",
-        "name": "Size & Complexity",
+        "id": "numbers-symbols",
+        "name": "Numbers & Symbols",
         "coverImageUrl": "",
         "orderIndex": 13
     }
