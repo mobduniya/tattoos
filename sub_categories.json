@@ -203,49 +203,50 @@
         "id": "cool",
         "categoryId": "style-based",
         "name": "Cool",
-        "image": "https://91tattoos.com/wp-content/uploads/2025/09/Minimalist-three-bar-tattoo-ideas-for-forearm-strength-and-symbolism-1229x1536.jpg",
+        "originalIdeasCount": 69,
         "tattooIdeasCount": 69,
-        "originalIdeasCount": 72,
+        "image": "https://91tattoos.com/wp-content/uploads/2025/09/1980-year-tattoo-ideas-for-timeless-and-meaningful-ink-1229x1536.jpg",
         "orderIndex": 21,
-        "imageTattooId": "tat_cool_26"
+        "imageTattooId": "tat_cool_1"
     },
     {
-        "id": "sun-and-wave-tattoo-ideas",
-        "categoryId": "nature-elements",
-        "name": "Sun and Wave",
-        "image": "https://91tattoos.com/wp-content/uploads/2023/04/Perfect-wave-and-sun-tattoo-for-back-to-show-your-strength-.jpg",
-        "tattooIdeasCount": 70,
-        "originalIdeasCount": 70,
-        "orderIndex": 22,
-        "imageTattooId": "tat_sun_wave_57"
-    },
-    {
-        "id": "moon",
+        "id": "dog",
         "categoryId": "subject-based",
-        "name": "Moon",
-        "image": "https://91tattoos.com/wp-content/uploads/2025/04/Bold-crescent-moon-shoulder-tattoo-paired-with-dragon-arm-ink-symbolism-1232x1536.jpg",
-        "tattooIdeasCount": 71,
+        "name": "Dog",
         "originalIdeasCount": 71,
-        "orderIndex": 23,
-        "imageTattooId": "tat_moon_1"
+        "tattooIdeasCount": 71,
+        "image": "https://91tattoos.com/wp-content/uploads/2023/11/Black-and-grey-doberman-face-portrait-tattoo-on-the-thigh-dobie-dreams.jpg",
+        "orderIndex": 22,
+        "imageTattooId": "tat_dog_1"
     },
     {
         "id": "minimal",
         "categoryId": "style-based",
         "name": "Minimal",
-        "image": "https://91tattoos.com/wp-content/uploads/2025/07/Tiny-heart-collarbone-tattoo-ideas-that-feel-personal-and-chic-1229x1536.jpg",
+        "originalIdeasCount": 70,
         "tattooIdeasCount": 70,
-        "originalIdeasCount": 71,
-        "orderIndex": 24,
-        "imageTattooId": "tat_minimal_10"
+        "image": "https://91tattoos.com/wp-content/uploads/2025/07/Celestial-inspired-minimal-sparkle-tattoo-ideas-for-the-upper-back-1229x1536.jpg",
+        "orderIndex": 23,
+        "imageTattooId": "tat_minimal_1"
     },
     {
-        "id": "dog-tattoo-ideas",
-        "name": "Dog",
+        "id": "moon",
+        "categoryId": "subject-based",
+        "name": "Moon",
         "originalIdeasCount": 71,
         "tattooIdeasCount": 71,
+        "image": "https://91tattoos.com/wp-content/uploads/2025/04/Bold-crescent-moon-shoulder-tattoo-paired-with-dragon-arm-ink-symbolism-1232x1536.jpg",
+        "orderIndex": 24,
+        "imageTattooId": "tat_moon_1"
+    },
+    {
+        "id": "sun-and-wave-tattoo-ideas",
+        "categoryId": "nature-elements",
+        "name": "Sun And Wave Tattoo Ideas",
+        "originalIdeasCount": 70,
+        "tattooIdeasCount": 70,
+        "image": "https://91tattoos.com/wp-content/uploads/2023/04/Amazing-wave-and-sun-tattoo-design-for-the-back.jpg",
         "orderIndex": 25,
-        "image": "https://91tattoos.com/wp-content/uploads/2023/11/Little-dog-portrait-with-playful-front-legs-on-the-forearm-tiny-totem-1229x1536.jpg",
-        "imageTattooId": "tat_dog_29"
+        "imageTattooId": "tat_sun_wave_1"
     }
 ]
