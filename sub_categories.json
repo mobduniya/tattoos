@@ -198,5 +198,53 @@
         "originalIdeasCount": 74,
         "orderIndex": 20,
         "imageTattooId": "tat_above_knee_21"
+    },
+    {
+        "id": "cool",
+        "categoryId": "style-based",
+        "name": "Cool",
+        "image": "https://91tattoos.com/wp-content/uploads/2025/09/Tiny-crescent-moon-shoulder-tattoo-ideas-for-minimalist-style-1152x1536.jpg",
+        "tattooIdeasCount": 69,
+        "originalIdeasCount": 72,
+        "orderIndex": 21,
+        "imageTattooId": "tat_cool_10"
+    },
+    {
+        "id": "sun-and-wave-tattoo-ideas",
+        "categoryId": "nature-elements",
+        "name": "Sun and Wave",
+        "image": "https://91tattoos.com/wp-content/uploads/2023/04/Beautiful-colored-wave-and-sun-tattoo-for-shoulder.jpg",
+        "tattooIdeasCount": 70,
+        "originalIdeasCount": 70,
+        "orderIndex": 22,
+        "imageTattooId": "tat_sun_wave_2"
+    },
+    {
+        "id": "moon",
+        "categoryId": "subject-based",
+        "name": "Moon",
+        "image": "https://91tattoos.com/wp-content/uploads/2025/06/Upper-arm-crescent-moon-tattoo-with-realistic-shading-for-a-mystical-vibe-1229x1536.jpg",
+        "tattooIdeasCount": 71,
+        "originalIdeasCount": 71,
+        "orderIndex": 23,
+        "imageTattooId": "tat_moon_1"
+    },
+    {
+        "id": "minimal",
+        "categoryId": "style-based",
+        "name": "Minimal",
+        "image": "https://91tattoos.com/wp-content/uploads/2025/07/Tiny-heart-collarbone-tattoo-ideas-that-feel-personal-and-chic-1229x1536.jpg",
+        "tattooIdeasCount": 70,
+        "originalIdeasCount": 71,
+        "orderIndex": 24,
+        "imageTattooId": "tat_minimal_10"
+    },
+    {
+        "id": "dog",
+        "name": "Dog",
+        "originalIdeasCount": 71,
+        "tattooIdeasCount": 71,
+        "image": "https://91tattoos.com/wp-content/uploads/2023/11/Black-and-grey-doberman-face-portrait-tattoo-on-the-thigh-dobie-dreams.jpg",
+        "imageTattooId": "tat_dog_1"
     }
 ]
