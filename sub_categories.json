@@ -198,55 +198,5 @@
         "originalIdeasCount": 74,
         "orderIndex": 20,
         "imageTattooId": "tat_above_knee_21"
-    },
-    {
-        "id": "cool",
-        "categoryId": "style-based",
-        "name": "Cool",
-        "originalIdeasCount": 69,
-        "tattooIdeasCount": 69,
-        "image": "https://91tattoos.com/wp-content/uploads/2025/09/Minimalist-three-bar-tattoo-ideas-for-forearm-strength-and-symbolism-1229x1536.jpg",
-        "orderIndex": 21,
-        "imageTattooId": "tat_cool_26"
-    },
-    {
-        "id": "dog",
-        "categoryId": "subject-based",
-        "name": "Dog",
-        "originalIdeasCount": 71,
-        "tattooIdeasCount": 71,
-        "image": "https://91tattoos.com/wp-content/uploads/2023/11/Little-dog-portrait-with-playful-front-legs-on-the-forearm-tiny-totem-1229x1536.jpg",
-        "orderIndex": 22,
-        "imageTattooId": "tat_dog_29"
-    },
-    {
-        "id": "minimal",
-        "categoryId": "style-based",
-        "name": "Minimal",
-        "originalIdeasCount": 70,
-        "tattooIdeasCount": 70,
-        "image": "https://91tattoos.com/wp-content/uploads/2025/07/Tiny-heart-collarbone-tattoo-ideas-that-feel-personal-and-chic-1229x1536.jpg",
-        "orderIndex": 23,
-        "imageTattooId": "tat_minimal_10"
-    },
-    {
-        "id": "moon",
-        "categoryId": "subject-based",
-        "name": "Moon",
-        "originalIdeasCount": 71,
-        "tattooIdeasCount": 71,
-        "image": "https://91tattoos.com/wp-content/uploads/2025/04/Bold-crescent-moon-shoulder-tattoo-paired-with-dragon-arm-ink-symbolism-1232x1536.jpg",
-        "orderIndex": 24,
-        "imageTattooId": "tat_moon_1"
-    },
-    {
-        "id": "sun-and-wave-tattoo-ideas",
-        "categoryId": "nature-elements",
-        "name": "Sun And Wave Tattoo Ideas",
-        "originalIdeasCount": 70,
-        "tattooIdeasCount": 70,
-        "image": "https://91tattoos.com/wp-content/uploads/2023/04/Perfect-wave-and-sun-tattoo-for-back-to-show-your-strength-.jpg",
-        "orderIndex": 25,
-        "imageTattooId": "tat_sun_wave_57"
     }
 ]
